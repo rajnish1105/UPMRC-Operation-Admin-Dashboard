@@ -1,4 +1,4 @@
-📋 Project Overview
+📋 #Project Overview
 
 This Admin Dashboard was developed during my internship at UPMRC to streamline internal ticket management and equipment tracking. The system provides a centralized interface for administrators to monitor work status, manage user/admin roles, and visualize departmental performance through interactive data visualizations.
 
