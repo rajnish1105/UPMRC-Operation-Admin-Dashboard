@@ -16,6 +16,10 @@ Theme Customization: Includes a Dark Mode toggle to enhance user comfort during 
 🛠️ Tech Stack
 
 Frontend: HTML5, CSS3 (Custom properties/variables), JavaScript (ES6+).
+
 Icons: FontAwesome 6.4, Boxicons.
+
 Charts: Chart.js.
+
 Fonts: Google Fonts (Poppins & Lato).
+
