@@ -7,10 +7,15 @@ The dashboard focuses on a clean User Experience (UX) with a sidebar-driven navi
 ✨ Key Features
 
 Dynamic Data Visualization: Integrated Chart.js to generate real-time Work Status Overview pie charts based on active ticket counts.
+
 Ticket Management System: Specialized modules for tracking Different ticket categories (Pending, Program, Resolved, and Closed).
+
 Equipment Tracking: A dedicated interface for monitoring hardware assets like Laptops and Desktops, including serial numbers and ownership details.
+
 Role-Based Management: Admin and User list views with "Accept" and "Delete" functionality for managing staff access.
+
 Responsive UI: Fully mobile-responsive design featuring a toggleable sidebar and adaptive tables for various screen sizes.
+
 Theme Customization: Includes a Dark Mode toggle to enhance user comfort during extended use.
 
 🛠️ Tech Stack
